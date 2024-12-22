@@ -1,2 +1,2 @@
-# financial_indicators
+# stock_recommender
  
